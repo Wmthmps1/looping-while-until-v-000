@@ -4,5 +4,5 @@ def using_until
     until levitation_force == 10
         prints "Wingardium Leviosa/n"
         levitation_force = levitation_force + 1
-   end
+   
 end
